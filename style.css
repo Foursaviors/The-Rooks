@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(26, 27, 27);
+}
+#Aboutus{
+    position: fixed;
+    left: 94%;
+    top: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    border-color: red;
+    padding: 15px;
+
+}
+#Staff{
+    position: fixed;
+    left: 86%;
+    top: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    border-color: red;
+    padding: 20px;  
+}
+#Join{
+    position: fixed;
+    left: 76%;
+    top: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    border-color: red;
+    padding: 20px;
+
+}
+#bots{
+    position: fixed;
+    left: 66%;
+    top: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    border-color: red;
+    padding: 20px;
+}
+#app{
+    position: fixed;
+    left: 55%;
+    top: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    border-color: red;
+    padding: 20px;
+    
+}
+#what{
+    font-family: cursive;
+    color: white;
+    text-align: center;
+}
+#ouc{
+    font-family: cursive;
+    color: white;
+    text-align: center;
+    padding: 100px;
+}
